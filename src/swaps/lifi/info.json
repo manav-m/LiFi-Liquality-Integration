@@ -1,0 +1,7 @@
+{
+  "title": "LI.FI Cross-chain Swap Aggregator",
+  "description": "Combining the power of bridges and DEXs to provide any-to-any swaps across all chains through the best route possible. LI.FI is audited by Quantstamp and Code4rena",
+  "pros": ["Best route possible", "Decentralized"],
+  "cons": ["None"],
+  "fees": ["No fees in the near future", "Only Bridge and DEX fees"]
+}

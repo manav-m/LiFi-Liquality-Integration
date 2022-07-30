@@ -191,6 +191,12 @@ const config: WalletCoreConfig = {
         type: SwapProviderType.Hop,
         graphqlBaseURL: 'https://api.thegraph.com/subgraphs/name/hop-protocol',
       },
+      lifi: {
+        name: 'LiFi',
+        icon: 'lifi.svg',
+        type: SwapProviderType.LiFi,
+        apiURL: 'https://li.quest/v1/',
+      },
     },
   },
   discordUrl: 'https://discord.gg/Xsqw7PW8wk',
